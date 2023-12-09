@@ -1,0 +1,5 @@
+env
+rough/
+subhu/
+.vector_cache/
+scripts/__pycache__/
